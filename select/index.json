@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Last beat",
+  "base_artist": "焔魔るり",
+  "createdAt": "2026-01-03T16:24:57.854644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Last Beat of My Heart",
+      "artist": "DeVotchKa",
+      "has_synced": true,
+      "path": "select/01_The_Last_Beat_of_My_Heart_DeVotchKa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Last Beat of My Heart",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/02_The_Last_Beat_of_My_Heart_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Beat of My Heart",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/03_The_Last_Beat_of_My_Heart_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Last Beat",
+      "artist": "Herbert",
+      "has_synced": false,
+      "path": "select/04_The_Last_Beat_Herbert.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Beat",
+      "artist": "Jack Savoretti",
+      "has_synced": true,
+      "path": "select/05_Last_Beat_Jack_Savoretti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Beat",
+      "artist": "Bad Nerves",
+      "has_synced": false,
+      "path": "select/06_Last_Beat_Bad_Nerves.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Last Beat Of My Heart",
+      "artist": "Siouxsie and The Banshees",
+      "has_synced": true,
+      "path": "select/07_The_Last_Beat_Of_My_Heart_Siouxsie_and_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Beat",
+      "artist": "Bad Nerves",
+      "has_synced": false,
+      "path": "select/08_Last_Beat_Bad_Nerves.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Last Beat Of My Heart (Live At Lollapalooza, Seattle)",
+      "artist": "Siouxsie And The Banshees",
+      "has_synced": false,
+      "path": "select/09_The_Last_Beat_Of_My_Heart_(Live_At_Lollapalooza,_Seattle)_Siouxsie_And_The_Banshees.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Last Beat Of My Heart (Live)",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/10_The_Last_Beat_Of_My_Heart_(Live)_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Beat (Album)",
+      "artist": "Bad Nerves",
+      "has_synced": false,
+      "path": "select/11_Last_Beat_(Album)_Bad_Nerves.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Beat of My Heart",
+      "artist": "Indecision",
+      "has_synced": false,
+      "path": "select/12_Last_Beat_of_My_Heart_Indecision.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Last Beat of My Heart (live)",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": false,
+      "path": "select/13_The_Last_Beat_of_My_Heart_(live)_Siouxsie_and_the_Banshees.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Last Beat Of My Heart (Live) (Bonus Track)",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/14_The_Last_Beat_Of_My_Heart_(Live)_(Bonus_Track)_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Last Beat",
+      "artist": "Herbert",
+      "has_synced": false,
+      "path": "select/15_The_Last_Beat_Herbert.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Last Beat",
+      "artist": "Matthew Herbert",
+      "has_synced": false,
+      "path": "select/16_The_Last_Beat_Matthew_Herbert.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Last Beat Of My Heart",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/17_The_Last_Beat_Of_My_Heart_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Last Beat Of My Heart [Live]",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/18_The_Last_Beat_Of_My_Heart_[Live]_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last beat",
+      "artist": "焔魔るり",
+      "has_synced": false,
+      "path": "select/pl_01_Last_beat_焔魔るり.txt"
+    }
+  ]
+}
